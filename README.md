@@ -1,2 +1,2 @@
-# Attest.ibcc.edu.pk.pk
+# Attest.ibcc.edu.pk
 Wellcome ibcc
